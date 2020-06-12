@@ -1,14 +1,14 @@
 {
   "name": "ember-animate-css",
   "version": "0.0.0",
-  "description": "Ember addon for pure Animate.css library.",
+  "description": "Ember addon for pure css animation [Animate.css] library.",
   "keywords": [
     "ember-addon",
     "animate",
     "animation",
     "animatecss"
   ],
-  "repository": "",
+  "repository": "https://github.com/sinankeskin/ember-animate-css",
   "license": "MIT",
   "author": "Sinan Keskin <sinan@kesk.in> (https://kesk.in)",
   "directories": {
