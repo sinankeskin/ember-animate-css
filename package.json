@@ -1,6 +1,6 @@
 {
   "name": "ember-animate-css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ember addon for pure css animation [Animate.css] library.",
   "keywords": [
     "ember-addon",
