@@ -4,7 +4,7 @@ Ember addon for pure css animation [Animate.css](https://animate.style/) library
 
 ## Compatibility
 
-- Ember.js v3.12 or above
+- Ember.js v3.16 or above
 - Ember CLI v2.13 or above
 - Node.js v10 or above
 
