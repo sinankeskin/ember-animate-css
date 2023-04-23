@@ -2,13 +2,10 @@
 
 Ember addon for pure css animation [Animate.css](https://animate.style/) library.
 
-
 ## Compatibility
 
-* Ember.js v3.28 or above
-* Ember CLI v3.28 or above
-* Node.js v14 or above
-
+- Ember.js v3.28 or above
+- Embroider or ember-auto-import v2
 
 ## Installation
 
@@ -21,7 +18,7 @@ ember install ember-animate-css
 animate is an element modifier. Simply add to an element like;
 
 ```handlebars
-<button type="button" {{animate 'bounce' 'faster' delay='1' repeat='3'}}>
+<button type='button' {{animate 'bounce' 'faster' delay='1' repeat='3'}}>
   Bounce
 </button>
 ```
@@ -36,7 +33,6 @@ For all animation names and other parameters [click](https://animate.style/).
 ## Contributing
 
 See the [Contributing](CONTRIBUTING.md) guide for details.
-
 
 ## License
 
