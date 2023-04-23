@@ -14,7 +14,7 @@
     "start:addon": "npm start --workspace ember-animate-css -- --no-watch.clearScreen",
     "start:test-app": "npm start --workspace test-app",
     "test": "npm run test --workspaces --if-present",
-    "deploy": "npm version patch && git push && git push origin --tags && npm publish"
+    "deploy": "npm version patch && git push && git push origin --tags && npm publish --workspace ember-animate-css"
   },
   "devDependencies": {
     "concurrently": "^7.2.1",
